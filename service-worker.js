@@ -5,7 +5,8 @@ var cacheFiles = [
     "/",
     "/index.html",
     "/111.jpg",
-    "/2.jpg"
+    "/2.jpg",
+    "/logo.png"
 ];
 /* "/mdl/bower.json","/mdl/bower.json",
     "/script/main.js", */
