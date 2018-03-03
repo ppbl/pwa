@@ -2,11 +2,11 @@ var cacheName = 'helloWorld';     // 缓存的名称
 // install 事件，它发生在浏览器安装并注册 Service Worker 时
 /*var cacheName = "chat-cache-name";*/
 var cacheFiles = [
-    "/",
-    "/index.html",
-    "/111.jpg",
-    "/2.jpg",
-    "/logo.png"
+    "./",
+    "./index.html",
+    "./111.jpg",
+    "./2.jpg",
+    "./logo.png"
 ];
 /* "/mdl/bower.json","/mdl/bower.json",
     "/script/main.js", */
