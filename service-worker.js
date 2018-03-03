@@ -3,7 +3,7 @@ var cacheName = 'helloWorld';     // 缓存的名称
 /*var cacheName = "chat-cache-name";*/
 var cacheFiles = [
     "/",
-    "./index.html",
+    "/index.html",
     "/111.jpg",
     "/2.jpg"
 ];
