@@ -1,9 +1,0 @@
-{
-	"name": "pwa-server",
-	"version": "0.0.1",
-	"dependencies": {
-		"koa": "latest",
-		"koa-router": "latest",
-		"koa-ejs": "latest"
-	}
-}
